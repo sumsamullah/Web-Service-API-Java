@@ -1,0 +1,1 @@
+jdbc:sqlserver://SAM-HP\SQLServer2008;database=NYC;user=sa;password=aoapk260adm1n
